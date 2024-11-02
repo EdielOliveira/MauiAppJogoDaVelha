@@ -47,6 +47,23 @@
                 Zerar();
             }
 
+            //Definir Horizontal X
+            if (btn10.Text == "X" && btn20.Text == "X" && btn30.Text == "X")
+            {
+                DisplayAlert("Parabéns!", "O X Ganhou!", "Jogar Denovo");
+                Zerar();
+            }
+            if (btn11.Text == "X" && btn21.Text == "X" && btn31.Text == "X")
+            {
+                DisplayAlert("Parabéns!", "O X Ganhou!", "Jogar Denovo");
+                Zerar();
+            }
+            if (btn12.Text == "X" && btn22.Text == "X" && btn32.Text == "X")
+            {
+                DisplayAlert("Parabéns!", "O X Ganhou!", "Jogar Denovo");
+                Zerar();
+            }
+
             //Definir Ganhador Diagonal Direita e Esquerda
             if (btn30.Text == "X" && btn21.Text == "X" && btn12.Text == "X")
             {
@@ -77,6 +94,25 @@
                 DisplayAlert("Parabéns!", "A Bolinha Ganhou!", "Jogar Denovo");
                 Zerar();
             }
+
+
+            //Definir Ganhador Hrizontal O
+            if (btn10.Text == "O" && btn20.Text == "O" && btn30.Text == "O")
+            {
+                DisplayAlert("Parabéns!", "A Bolinha Ganhou!", "Jogar Denovo");
+                Zerar();
+            }
+            if (btn11.Text == "O" && btn21.Text == "O" && btn31.Text == "O")
+            {
+                DisplayAlert("Parabéns!", "A Bolinha Ganhou!", "Jogar Denovo");
+                Zerar();
+            }
+            if (btn12.Text == "O" && btn22.Text == "O" && btn32.Text == "O")
+            {
+                DisplayAlert("Parabéns!", "A Bolinha Ganhou!", "Jogar Denovo");
+                Zerar();
+            }
+
 
             //Definir Ganhador Diagonal Direita e Esquerda
             if (btn30.Text == "O" && btn21.Text == "O" && btn12.Text == "O")

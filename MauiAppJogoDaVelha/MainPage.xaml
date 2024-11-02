@@ -6,8 +6,8 @@
 
     <ContentPage.Background>
         <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
-            <GradientStop Color="Cyan" Offset="0.3"/>
-            <GradientStop Color="LimeGreen" Offset="1.1"/>
+            <GradientStop Color="Black" Offset="0.3"/>
+            <GradientStop Color="Gray" Offset="1.1"/>
         </LinearGradientBrush>
     </ContentPage.Background>
 

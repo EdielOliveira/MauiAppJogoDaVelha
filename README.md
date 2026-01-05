@@ -19,8 +19,7 @@
 <div align="center">
   
 ## Índice
-  
-- [Abrindo o Código](#-abrindo-o-código)
+
 - [Visão Geral](#visão-geral)
 - [Objetivo Educacional](#objetivo-educacional)
 - [Arquitetura do App](#arquitetura-do-app)
@@ -29,17 +28,6 @@
 - [Desenvolvedor](#-desenvolvedor)
 
 </div>
-
-<h1 align="left">
-🚀 Abrindo o Código
-</h1>
-
-Este projeto está disponibilizado **exclusivamente para fins educacionais**, com foco na **aprendizagem dos conceitos básicos de desenvolvimento mobile utilizando .NET MAUI**.
-
-- Analisar o **XAML da interface**
-- Entender o uso de **Grid**
-- Estudar o **code-behind em C#**
-- Compreender o controle de estado do jogo
 
 <h1 align="center">
 Visão Geral
@@ -56,8 +44,6 @@ Este repositório contém um **Aplicativo Mobile de Jogo da Velha**, desenvolvid
 
 O aplicativo implementa o clássico **Jogo da Velha (Tic-Tac-Toe)** em uma interface gráfica simples, permitindo a interação do usuário por meio de botões organizados em uma grade (**Grid**).
 
-O projeto foi desenvolvido como parte de uma **aula do curso técnico em Desenvolvimento de Sistemas**, com foco em:
-
 - Estruturação de layouts com **Grid**
 - Manipulação de eventos de botões
 - Alternância de estados
@@ -67,7 +53,7 @@ O projeto foi desenvolvido como parte de uma **aula do curso técnico em Desenvo
 Objetivo Educacional
 </h1>
 
-Este projeto tem como principal objetivo **ensinar conceitos básicos de layout e lógica em .NET MAUI**, sendo considerado um **projeto introdutório**.
+Este projeto tem como principal objetivo **ensinar conceitos básicos de layout e lógica em .NET MAUI**, basicamente um **projeto introdutório**.
 
 📌 Conceitos trabalhados:
 - Uso do **Grid** para organização da interface
@@ -141,8 +127,19 @@ Funcionalidades
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/113260177?s=400&v=4" width="150px;" alt="Foto do Desenvolvedor"/><br>
         <sub>
-          <b>EdielOliveira</b>
+          <b>Ediel Oliveira</b>
         </sub>
       </a>
-    </td>   
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/12d933c6-c44f-4ed8-95ab-ec92d5b65256" width="150px;" alt="Foto do Desenvolvedor"/><br>
+      <sub>
+          <b>GEEAD</b>
+        </sub>
+    </td>
+  
 </table>
+
+<p align="center">
+Projeto desenvolvido como atividade acadêmica na ETEC, durante o curso técnico em Desenvolvimento de Sistemas.
+</p>
